@@ -56,6 +56,8 @@ public class MainActivity extends AppCompatActivity {
             }.start();
         }
     }
+
+    // method for seekbar update time conversion
     public void updateTimer(int i)
     {
         int minutes = i/60;
