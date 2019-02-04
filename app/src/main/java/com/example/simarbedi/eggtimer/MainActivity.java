@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         countDownTimer.cancel();
         timerOn=false;
     }
+    // onClick function for the go button
     public void Click2(View view) {
 
         if (timerOn) {
