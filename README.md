@@ -1,3 +1,3 @@
 # Timer
 my eggTimer.
-This is a singl page application made as a timer.
+This is a single page application made as a timer.
